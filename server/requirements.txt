@@ -1,0 +1,5 @@
+requests
+websockets
+numpy
+faster-whisper
+piper-tts

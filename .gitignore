@@ -1,0 +1,12 @@
+# secrets and local data
+firmware/companion/secrets.h
+server/conversations/
+# Piper voices are large and have their own licenses; download them yourself
+*.onnx
+*.onnx.json
+# misc
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+build/
